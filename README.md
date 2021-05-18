@@ -8,4 +8,4 @@ Trabalho Feito em grupo.
 Esse projeto foi feito em grupo, Sistema CAA (Central de Atendimento ao Aluno), passado como um trabalho na faculdade
 .Esse projeto utiliza a estrutura de dados Fila, e tem uma interface gráfica para o cadastro dos "alunos" que serão "atendidos".
 
-### Nome dos Autores estão no projeto.
+### Nome dos Autores está no projeto.
