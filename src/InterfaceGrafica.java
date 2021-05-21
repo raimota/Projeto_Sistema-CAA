@@ -348,7 +348,7 @@ public class InterfaceGrafica extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // Grupo 05
-        JOptionPane.showMessageDialog(null, "Aline Ribeiro - 23152001\nBeatriz Santos - 23189606\nGabriel Tenorio - 23182474\nLarissa Gabriel - 23190370\nRai Mota - 23327774", "Grupo 05", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Aline Ribeiro\nBeatriz Santos\nGabriel Tenorio\nLarissa Gabriel\nRai Mota", "Grupo 05", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     public static void main(String args[]) {
